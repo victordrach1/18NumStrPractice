@@ -17,4 +17,8 @@ gid add style1.css  або *.css
 git commit -a -m 'message for my first commit'
 5. як≥ були зроблен≥ ком≥ти
 git log
+- створюЇмо новий репозитор≥й на github.com
+- git branch -M main
+- git remote add origin https://github.com/victordrach1/18NumStrPractice.git
+- git push -u origin main
 6. git push  в≥дправл€Їм на репозитор≥й
