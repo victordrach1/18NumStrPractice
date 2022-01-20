@@ -21,4 +21,7 @@ git log
 - git branch -M main
 - git remote add origin https://github.com/victordrach1/18NumStrPractice.git
 - git push -u origin main
+- git add -A
+- створити новий коміт
+ git commit -a -m 'message for my commit'
 6. git push  відправляєм на репозиторій
